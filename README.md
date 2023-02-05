@@ -27,7 +27,7 @@ Tasks to be done are:
     - Logout                                                                        *done
     - Message to other Customer(s)                                                  *done
     - View own chat history                                                         *done
-    - Can report other Customer(s) or own feedback/bug to Staff
+    - Can report other Customer(s) or own feedback/bug to Staff                     *done
 
 3. Create Model for Staff and Controllers that support following features:
     - Login                                                                         *done
